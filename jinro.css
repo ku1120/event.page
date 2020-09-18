@@ -1,0 +1,15 @@
+header > h1{
+    padding: 6rem 0;
+    margin: auto;
+    background-image: url(./人狼.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: rgb(252, 247, 247);
+}
+h1{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
